@@ -8,3 +8,7 @@ for project creation  i use command
 then i have make my first app by below command
 
 `python manage.py startapp core`
+
+
+then i have make app template folder inside my app with name template
+
